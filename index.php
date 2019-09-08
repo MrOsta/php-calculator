@@ -28,9 +28,8 @@
 <H1 style="color:white;">[[ The Calculator ]]  </H1>
 
 <form method="post">
-	<div class="imgcontainer">
-	<img src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/512/calculator-icon.png"alt="calc_photo" class="calcp">
-</div>
+  <img width="%20" src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/512/calculator-icon.png" class="img-fluid" alt="calc_photo
+  ">
 <div class="container">
 <label for="fnum"><b>Enter First Number:</b></label><br>
 <input style="color:black" type="text" placeholder="Enter First Number" name="first_value"required>
