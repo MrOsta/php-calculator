@@ -1,0 +1,74 @@
+	* {
+
+color:white;
+
+
+    font-family: 'Poiret One', cursive;
+
+
+
+	}
+	.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+ video {
+  filter: blur(100px);
+  
+
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+form {
+
+	border: 3px solid #f1f1f1;
+}
+
+input [type=text]{
+width:100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+.imgcontainer{
+
+	text-align: center;
+	margin: 24px 0 12px 0;
+
+}
+img.calc_photo{
+
+	width: 40%;
+	border-radius: 50%;
+
+}
+
+.container{
+padding: 16px;
+
+}
+
+
+
